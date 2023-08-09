@@ -1,0 +1,6 @@
+setup.py
+imagezipdataset.egg-info/PKG-INFO
+imagezipdataset.egg-info/SOURCES.txt
+imagezipdataset.egg-info/dependency_links.txt
+imagezipdataset.egg-info/requires.txt
+imagezipdataset.egg-info/top_level.txt

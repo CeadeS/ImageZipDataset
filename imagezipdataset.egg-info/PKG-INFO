@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: imagezipdataset
+Version: 0.0.1
+Summary: Loading Images from Zipfiles Directly.
+Home-page: https://github.com/CeadeS/ImageZipDataset
+Author: Martin Hofmann
+Author-email: Martin.Hofmann@tu-ilmenau.de
+License: BSD-3-Clause License
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
